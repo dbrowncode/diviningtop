@@ -1,1 +1,4 @@
-<?php ?><html><body><img src="top.jpg"/></body></html>
+<?php
+   header('Content-Type: image/jpeg');
+   readfile('top.jpg');
+ ?>
