@@ -1,0 +1,2 @@
+# diviningtop
+for senseisdivining.top
